@@ -6,6 +6,7 @@ body {
   
   header {
     flex: 0 80px;
+    background-image: url("https://wallpapercave.com/wp/qevZIVj.jpg");
   }
   
   main {
@@ -14,10 +15,12 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
+    background-image: url("https://wallpapercave.com/wp/wp3429910.jpg");
   }
   
   footer {
     flex: 0 30px;
+    background-image: url("https://wallpapercave.com/wp/qevZIVj.jpg");
   }
   
   menu {
@@ -30,7 +33,7 @@ body {
   
   .navbar-brand {
     padding-left: 0.3em;
-    border-bottom: solid rgb(241, 11, 11) thick;
+    border-bottom: solid rgb(58, 36, 130) thick;
   }
   
   menu .nav-item {
